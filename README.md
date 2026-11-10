@@ -19,3 +19,6 @@ conf.get_default().auth_token = userdata.get("NGROK_AUTHTOKEN")
 ```
 
 Não escreva as chaves diretamente no código nem compartilhe seus valores.
+
+Link para o relatório técnico:
+https://centropaulasouza-my.sharepoint.com/:w:/g/personal/sabrina_santos6_aluno_cps_sp_gov_br/cQoZ1af5fgXSTKfgCCFu2c7WEgUDGgx4lbVWeyXMACaBxlptTg
